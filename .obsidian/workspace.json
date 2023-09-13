@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fopen(3).md",
+                "file": "fread(3).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fopen(3).md",
+                "file": "fread(3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fopen(3).md",
+                "file": "fread(3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fopen(3).md"
+                "file": "fread(3).md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "dac7c47235f76353",
   "lastOpenFiles": [
     "고수준 파일 입출력.md",
+    "fread(3).md",
+    "fclose(3).md",
     "fopen(3).md",
     "파일 입출력.md",
     "저수준 파일 입출력.md",
@@ -171,8 +173,6 @@
     "unlink(2).md",
     "create(2).md",
     "open(2).md",
-    "파일 포인터.md",
-    "하드 링크.md",
-    "파일의 종류.md"
+    "파일 포인터.md"
   ]
 }
