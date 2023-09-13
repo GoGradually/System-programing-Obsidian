@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "write(2).md",
+                "file": "lseek(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write(2).md",
+                "file": "lseek(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "write(2).md",
+                "file": "lseek(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "write(2).md"
+                "file": "lseek(2).md"
               }
             }
           }
@@ -150,17 +150,20 @@
   "lastOpenFiles": [
     "저수준 파일 입출력.md",
     "write(2).md",
+    "[파일 디스크립터.md",
+    "파일 입출력.md",
+    "파일.md",
+    "파일 다루기.md",
+    "get_current_dir_name(3).md",
+    "파일 디스크립터.md",
+    "lseek(2).md",
     "read(2).md",
     "close(2).md",
     "creat(2).md",
-    "파일 입출력.md",
-    "파일.md",
     "파일의 접근 권한.md",
-    "파일 다루기.md",
     "unlink(2).md",
     "create(2).md",
     "open(2).md",
-    "파일 디스크립터.md",
     "고수준 파일 입출력.md",
     "파일 포인터.md",
     "하드 링크.md",
@@ -170,9 +173,6 @@
     "오프셋.md",
     "심벌릭 링크.md",
     "시스템 호출.md",
-    "명령행 인자.md",
-    "라이브러리 함수.md",
-    "디렉터리.md",
-    "동적 메모리 할당.md"
+    "명령행 인자.md"
   ]
 }
