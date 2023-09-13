@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fseek(3).md",
+                "file": "임시 파일의 이름을 정하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fseek(3).md",
+                "file": "임시 파일의 이름을 정하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fseek(3).md",
+                "file": "임시 파일의 이름을 정하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fseek(3).md"
+                "file": "임시 파일의 이름을 정하는 방법.md"
               }
             }
           }
@@ -148,9 +148,19 @@
   },
   "active": "dac7c47235f76353",
   "lastOpenFiles": [
-    "저수준 파일 입출력.md",
-    "fseek(3).md",
+    "tmpfile(3).md",
+    "임시 파일의 이름을 정하는 방법.md",
+    "mkstemp(3).md",
+    "mktemp(3).md",
+    "tmpnam(3).md",
+    "파일 입출력.md",
+    "파일 기술자(디스크립터)와 파일 포인터 변환.md",
     "고수준 파일 입출력.md",
+    "fflush(3).md",
+    "rewind(3).md",
+    "ftell(3).md",
+    "fseek(3).md",
+    "저수준 파일 입출력.md",
     "fscanf(3).md",
     "fprintf(3).md",
     "fopen(3).md",
@@ -160,19 +170,9 @@
     "fwrite(3).md",
     "fread(3).md",
     "fclose(3).md",
-    "파일 입출력.md",
     "fsync(3).md",
     "remove(3).md",
     "fcntl(2).md",
-    "dup2(3).md",
-    "dup(2).md",
-    "lseek(2).md",
-    "write(2).md",
-    "[파일 디스크립터.md",
-    "파일.md",
-    "파일 다루기.md",
-    "get_current_dir_name(3).md",
-    "파일 디스크립터.md",
-    "read(2).md"
+    "dup2(3).md"
   ]
 }
