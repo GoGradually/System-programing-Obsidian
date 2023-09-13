@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fread(3).md",
+                "file": "fseek(3).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fread(3).md",
+                "file": "fseek(3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fread(3).md",
+                "file": "fseek(3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fread(3).md"
+                "file": "fseek(3).md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "dac7c47235f76353",
   "lastOpenFiles": [
+    "저수준 파일 입출력.md",
+    "fseek(3).md",
     "고수준 파일 입출력.md",
+    "fscanf(3).md",
+    "fprintf(3).md",
+    "fopen(3).md",
+    "fputs(3).md",
+    "fgets(3).md",
+    "gets, fgets, puts, fputs 간 비교.md",
+    "fwrite(3).md",
     "fread(3).md",
     "fclose(3).md",
-    "fopen(3).md",
     "파일 입출력.md",
-    "저수준 파일 입출력.md",
     "fsync(3).md",
     "remove(3).md",
     "fcntl(2).md",
@@ -166,13 +173,6 @@
     "파일 다루기.md",
     "get_current_dir_name(3).md",
     "파일 디스크립터.md",
-    "read(2).md",
-    "close(2).md",
-    "creat(2).md",
-    "파일의 접근 권한.md",
-    "unlink(2).md",
-    "create(2).md",
-    "open(2).md",
-    "파일 포인터.md"
+    "read(2).md"
   ]
 }
