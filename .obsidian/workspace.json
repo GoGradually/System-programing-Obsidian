@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unlink(2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebce131df180f21f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "open(2).md",
+                "file": "write(2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open(2).md",
+                "file": "write(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "open(2).md",
+                "file": "write(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "open(2).md"
+                "file": "write(2).md"
               }
             }
           }
@@ -159,18 +146,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebce131df180f21f",
+  "active": "dac7c47235f76353",
   "lastOpenFiles": [
     "저수준 파일 입출력.md",
-    "open(2).md",
-    "파일 디스크립터.md",
+    "write(2).md",
+    "read(2).md",
+    "close(2).md",
+    "creat(2).md",
     "파일 입출력.md",
     "파일.md",
+    "파일의 접근 권한.md",
+    "파일 다루기.md",
+    "unlink(2).md",
+    "create(2).md",
+    "open(2).md",
+    "파일 디스크립터.md",
     "고수준 파일 입출력.md",
     "파일 포인터.md",
-    "unlink(2).md",
-    "파일 다루기.md",
-    "파일의 접근 권한.md",
     "하드 링크.md",
     "파일의 종류.md",
     "특수 파일.md",
@@ -181,11 +173,6 @@
     "명령행 인자.md",
     "라이브러리 함수.md",
     "디렉터리.md",
-    "동적 메모리 할당.md",
-    "데이터 블록.md",
-    "telldir, seekdir, rewinddir(3).md",
-    "symlink(2).md",
-    "strerror.md",
-    "stat, fstat(2).md"
+    "동적 메모리 할당.md"
   ]
 }
