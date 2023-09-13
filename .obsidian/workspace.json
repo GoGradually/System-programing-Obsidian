@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0861591d50509903",
+        "id": "017f465cb12bde3c",
         "type": "tabs",
         "children": [
           {
-            "id": "dac7c47235f76353",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "59539b04f8f36a95",
+            "id": "1e54e73591967329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "man.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c39cae59a52f82de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "라이브러리 함수.md",
+                "file": "unlink(2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "man.md",
+                "file": "unlink(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "man.md",
+                "file": "unlink(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "man.md"
+                "file": "unlink(2).md"
               }
             }
           }
@@ -154,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +145,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59539b04f8f36a95",
+  "active": "1e54e73591967329",
   "lastOpenFiles": [
-    "시스템 호출.md",
+    "파일 다루기.md",
+    "unlink(2).md",
+    "realpath(3).md",
+    "readlink(2).md",
+    "lstat(2).md",
+    "symlink(2).md",
+    "심벌릭 링크.md",
+    "파일의 접근 권한.md",
+    "하드 링크.md",
+    "link(2).md",
+    "파일의 종류.md",
+    "chmod, fchmod (2).md",
+    "stat, fstat(2).md",
+    "stat 구조체.md",
+    "st_mode.md",
+    "access(2).md",
+    "데이터 블록.md",
+    "inode.md",
     "man.md",
-    "라이브러리 함수.md"
+    "시스템 호출.md",
+    "telldir, seekdir, rewinddir(3).md",
+    "DIR.md",
+    "telldir/seekdir/rewinddir(3).md",
+    "디렉터리.md",
+    "telldir/seekdir",
+    "telldir",
+    "readdir(3).md",
+    "closedir(3).md"
   ]
 }
