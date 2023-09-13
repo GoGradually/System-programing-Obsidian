@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "017f465cb12bde3c",
+        "id": "0861591d50509903",
         "type": "tabs",
         "children": [
           {
-            "id": "1e54e73591967329",
+            "id": "dac7c47235f76353",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebce131df180f21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파일 디스크립터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlink(2).md",
+                "file": "파일 디스크립터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unlink(2).md",
+                "file": "파일 디스크립터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unlink(2).md"
+                "file": "파일 디스크립터.md"
               }
             }
           }
@@ -133,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,35 +159,33 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1e54e73591967329",
+  "active": "ebce131df180f21f",
   "lastOpenFiles": [
-    "파일 다루기.md",
+    "저수준 파일 입출력.md",
+    "파일 디스크립터.md",
+    "파일 입출력.md",
+    "파일.md",
     "unlink(2).md",
-    "realpath(3).md",
-    "readlink(2).md",
-    "lstat(2).md",
-    "symlink(2).md",
-    "심벌릭 링크.md",
+    "파일 다루기.md",
     "파일의 접근 권한.md",
     "하드 링크.md",
-    "link(2).md",
     "파일의 종류.md",
-    "chmod, fchmod (2).md",
+    "특수 파일.md",
+    "일반 파일.md",
+    "오프셋.md",
+    "심벌릭 링크.md",
+    "시스템 호출.md",
+    "명령행 인자.md",
+    "라이브러리 함수.md",
+    "디렉터리.md",
+    "동적 메모리 할당.md",
+    "데이터 블록.md",
+    "telldir, seekdir, rewinddir(3).md",
+    "symlink(2).md",
+    "strerror.md",
     "stat, fstat(2).md",
     "stat 구조체.md",
     "st_mode.md",
-    "access(2).md",
-    "데이터 블록.md",
-    "inode.md",
-    "man.md",
-    "시스템 호출.md",
-    "telldir, seekdir, rewinddir(3).md",
-    "DIR.md",
-    "telldir/seekdir/rewinddir(3).md",
-    "디렉터리.md",
-    "telldir/seekdir",
-    "telldir",
-    "readdir(3).md",
-    "closedir(3).md"
+    "rmdir(2).md"
   ]
 }
