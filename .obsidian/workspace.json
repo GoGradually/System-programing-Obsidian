@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "고수준 파일 입출력.md",
+                "file": "파일 포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "고수준 파일 입출력.md",
+                "file": "파일 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "고수준 파일 입출력.md",
+                "file": "파일 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "고수준 파일 입출력.md"
+                "file": "파일 포인터.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "ebce131df180f21f",
   "lastOpenFiles": [
-    "파일 입출력.md",
     "고수준 파일 입출력.md",
+    "파일 포인터.md",
+    "파일 입출력.md",
     "저수준 파일 입출력.md",
     "파일 디스크립터.md",
     "파일.md",
@@ -185,7 +186,6 @@
     "symlink(2).md",
     "strerror.md",
     "stat, fstat(2).md",
-    "stat 구조체.md",
-    "st_mode.md"
+    "stat 구조체.md"
   ]
 }
