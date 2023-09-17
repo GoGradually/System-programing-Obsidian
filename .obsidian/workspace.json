@@ -128,6 +128,16 @@
                 "file": "임시 파일의 이름을 정하는 방법.md"
               }
             }
+          },
+          {
+            "id": "b65bd0e97e7cf19f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
