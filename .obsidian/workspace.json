@@ -11,8 +11,12 @@
             "id": "738aeb2106d815b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "시간 관리 함수.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "시간 관리 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "시간 관리 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "시간 관리 함수.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
   "active": "738aeb2106d815b4",
   "lastOpenFiles": [
     "시스템 및 사용자 정보 파악하기.md",
+    "시간 관리 함수.md",
     "사용자 정보 검색하기.md",
     "getutent(3), setutent(3), endutent(3), utmpname(3).md",
     "utmp 구조체.md",
@@ -174,7 +183,6 @@
     "uname(2).md",
     "저수준 파일 입출력.md",
     "파일 입출력.md",
-    "파일.md",
-    "디렉터리.md"
+    "파일.md"
   ]
 }
