@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sysconf(3).md",
+                "file": "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sysconf(3).md",
+                "file": "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sysconf(3).md",
+                "file": "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sysconf(3).md"
+                "file": "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md"
               }
             }
           },
@@ -157,10 +157,19 @@
   },
   "active": "738aeb2106d815b4",
   "lastOpenFiles": [
-    "시스템 정보 파악하기.md",
+    "사용자 정보 검색하기.md",
+    "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md",
+    "getpwnam(3).md",
+    "getpwuid(3).md",
+    "passwd 구조체.md",
+    "getuid(2) or geteuid(2).md",
+    "getlogin(3).md",
+    "시스템 및 사용자 정보 파악하기.md",
+    "시스템 정보 검색하기.md",
+    "시스템 프로그래밍.md",
+    "fpathconf(3) or pathconf(3).md",
     "sysconf(3).md",
     "uname(2).md",
-    "시스템 프로그래밍.md",
     "저수준 파일 입출력.md",
     "파일 입출력.md",
     "파일.md",
@@ -173,15 +182,6 @@
     "임시 파일의 이름을 정하는 방법.md",
     "tmpfile(3).md",
     "mkstemp(3).md",
-    "mktemp(3).md",
-    "tmpnam(3).md",
-    "파일 기술자(디스크립터)와 파일 포인터 변환.md",
-    "고수준 파일 입출력.md",
-    "fflush(3).md",
-    "rewind(3).md",
-    "ftell(3).md",
-    "fseek(3).md",
-    "fscanf(3).md",
-    "fprintf(3).md"
+    "mktemp(3).md"
   ]
 }
