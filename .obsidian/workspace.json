@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시간 관리 함수.md",
+                "file": "시스템 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시간 관리 함수.md",
+                "file": "시스템 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시간 관리 함수.md",
+                "file": "시스템 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시간 관리 함수.md"
+                "file": "시스템 프로그래밍.md"
               }
             }
           },
@@ -160,6 +160,17 @@
   "lastOpenFiles": [
     "시스템 및 사용자 정보 파악하기.md",
     "시간 관리 함수.md",
+    "strftime(3).md",
+    "asctime(3).md",
+    "ctime(3).md",
+    "mktime(3).md",
+    "gmtime(3), localtime(3).md",
+    "tm 구조체.md",
+    "tzset(3).md",
+    "gettimeeofday(3).md",
+    "time(2).md",
+    "timeval 구조체.md",
+    "시스템 프로그래밍.md",
     "사용자 정보 검색하기.md",
     "getutent(3), setutent(3), endutent(3), utmpname(3).md",
     "utmp 구조체.md",
@@ -172,17 +183,6 @@
     "spwd 구조체.md",
     "getpwent(3), setpwent(3), endpwent(3), fgetpwent(3).md",
     "getpwnam(3).md",
-    "getpwuid(3).md",
-    "passwd 구조체.md",
-    "getuid(2) or geteuid(2).md",
-    "getlogin(3).md",
-    "시스템 정보 검색하기.md",
-    "시스템 프로그래밍.md",
-    "fpathconf(3) or pathconf(3).md",
-    "sysconf(3).md",
-    "uname(2).md",
-    "저수준 파일 입출력.md",
-    "파일 입출력.md",
-    "파일.md"
+    "getpwuid(3).md"
   ]
 }
