@@ -24,3 +24,5 @@ SEEK_END    -> 파일의 끝 위치 기준
 now = lseek(fd, 0, SEEK_CUR);
 ~~~
 을 이용하면 된다.
+
+
