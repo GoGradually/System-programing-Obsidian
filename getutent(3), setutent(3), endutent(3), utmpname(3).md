@@ -1,5 +1,5 @@
 utmp 파일을 순차적으로 읽는다.
-
+[[utmp 구조체]]
 ~~~C
 #include <sys/types.h>
 

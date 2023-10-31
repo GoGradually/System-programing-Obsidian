@@ -9,3 +9,7 @@ size_t frwrite(const svoid *ptr, size_t size, size_t nmemb, FILE *stream);
 
 성공하면 출력한 항목 개수를
 실패하면 -1(EOF)를 반환한다.
+
+
+### 같이보기
+[[write(2)]]

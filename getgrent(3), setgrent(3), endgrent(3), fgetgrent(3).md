@@ -1,5 +1,6 @@
 etc/group 순차적으로 읽는 함수.
 
+[[group 구조체]]
 ~~~c
 #include <grp.h>
 

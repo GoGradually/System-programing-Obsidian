@@ -21,3 +21,6 @@ FILE *fopen(const char *pathname, const char *mode);
 - rb+ : 읽기와 쓰기용 -> 바이너리 파일
 - wb+ : 쓰기와 읽기용 -> 바이너리 파일
 - ab+ : 이어 쓰기와 읽기용-> 바이너리 파일
+
+### 같이보기
+- [[open(2)]]

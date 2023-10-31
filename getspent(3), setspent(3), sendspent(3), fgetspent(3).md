@@ -1,4 +1,4 @@
-
+[[spwd 구조체]]
 ~~~c
 #include <shadow.h>
 

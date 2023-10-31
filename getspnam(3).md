@@ -1,5 +1,5 @@
 인자로 지정한 사용자의 spwd 파일 정보를 읽어온다.
-
+[[spwd 구조체]]
 ~~~c
 #include <shadow.h>
 
