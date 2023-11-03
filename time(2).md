@@ -13,12 +13,8 @@
   
 
 int main(){
-
-time_t tloc;
-
-time(&tloc);
-
-printf("Time(sec) : %d\n", (int)tloc);
-
+	time_t tloc;
+	time(&tloc);
+	printf("Time(sec) : %d\n", (int)tloc);
 }
 ~~~
