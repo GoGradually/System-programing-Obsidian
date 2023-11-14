@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로세스 생성 및 실행.md",
+                "file": "시스템 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로세스 생성 및 실행.md",
+                "file": "시스템 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로세스 생성 및 실행.md",
+                "file": "시스템 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로세스 생성 및 실행.md"
+                "file": "시스템 프로그래밍.md"
               }
             }
           },
@@ -158,34 +158,34 @@
   },
   "active": "738aeb2106d815b4",
   "lastOpenFiles": [
-    "특정 자식 종료될 때까지 대기 = 특정 자식 프로세스 동기화(waitpid, waitid).md",
-    "waitid.md",
-    "waitpid.md",
+    "시그널.md",
+    "시그널 무시 처리.md",
+    "시그널 여러개한테 다양한 방법으로 보내기.md",
+    "시그널 들어올때까지 대기하기.md",
+    "시그널 집합.md",
+    "시그널 핸들러 지정하기(리눅스, 솔라리스).md",
+    "시그널 처리 과정 제어.md",
+    "시그널 블로킹과 해제.md",
+    "시그널 정보 출력.md",
+    "인터벌 타이머.md",
+    "itimerval 구조체.md",
+    "timeval 구조체.md",
+    "알람 시그널.md",
+    "시그널 발생 원인 출력.md",
+    "siginfo_t 구조체.md",
+    "나 자신의 코어 덤프 생성시키기.md",
+    "나 자신에게 시그널 보내기.md",
+    "시그널 보내기.md",
+    "시그널 집합 초기화.md",
+    "시그널 집합에 원소 존재 확인.md",
+    "시그널 집합에서 원소 제거.md",
+    "시그널 집합에 원소 추가.md",
+    "대표적인 시그널.md",
+    "시스템 프로그래밍.md",
     "프로세스 생성 및 실행.md",
-    "자식 중 아무거나 종료될 때까지 대기 = 프로세스 동기화 (wait).md",
-    "좀비 프로세스.md",
-    "고아 프로세스.md",
-    "execle.md",
-    "execvpe.md",
-    "execvp.md",
-    "execv.md",
-    "execlp.md",
-    "execl.md",
-    "프로세스 종료 시 수행할 작업 지정 (atexit).md",
-    "프로세스 생성(fork).md",
-    "fork 예제.md",
+    "특정 자식 종료될 때까지 대기 = 특정 자식 프로세스 동기화(waitpid, waitid).md",
     "Pasted image 20231103184928.png",
     "Pasted image 20231103184726.png",
-    "프로세스 종료 시스템 콜 함수 (_exit).md",
-    "프로세스 종료 라이브러리 함수 (exit).md",
-    "참고) 파이프라이닝 & 리디렉션.md",
-    "프로그램 실행 (셸 불러오기).md",
-    "시스템 프로그래밍.md",
-    "사용자 정보 검색하기.md",
-    "getuid(2) or geteuid(2).md",
-    "getlogin(3).md",
-    "시간 관리 함수.md",
-    "time(2).md",
     "Pasted image 20231015184342.png",
     "Pasted image 20231015183541.png",
     "Pasted image 20231015183532.png"
