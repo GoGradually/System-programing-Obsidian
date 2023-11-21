@@ -1,3 +1,5 @@
+InterProcess Communication
+
 - [[파이프]]
 - [[메모리 매핑]]
 - [[메시지 큐]]
