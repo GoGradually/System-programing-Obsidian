@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소켓 프로그래밍.md",
+                "file": "데이터 수신(SOCK_DGRAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소켓 프로그래밍.md",
+                "file": "데이터 수신(SOCK_DGRAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소켓 프로그래밍.md",
+                "file": "데이터 수신(SOCK_DGRAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소켓 프로그래밍.md"
+                "file": "데이터 수신(SOCK_DGRAM).md"
               }
             }
           },
@@ -157,33 +157,36 @@
   },
   "active": "738aeb2106d815b4",
   "lastOpenFiles": [
-    "TCP%2FIP.md",
+    "소켓 인터페이스 함수.md",
+    "데이터 송신(SOCK_DGRAM).md",
+    "데이터 수신(SOCK_DGRAM).md",
+    "클라이언트가 서버에 접속 요청.md",
+    "데이터 송신(SOCK_STREAM).md",
+    "데이터 수신(SOCK_STREAM).md",
+    "소켓 프로그래밍 API.md",
+    "소켓 주소 구조체 - sockaddr.md",
+    "클라이언트의 연결 요청 수락.md",
+    "sockaddr 구조체.md",
+    "소켓 파일 기술자를 지정된 IP주소 & 포트번호와 결합.md",
+    "클라이언트의 연결 요청 대기.md",
+    "소켓 파일 기술자를 지정된 IP주소/포트번호와 결합.md",
+    "소켓 파일 기술자를 지정된 IP주소",
+    "소켓 파일 기술자 생성.md",
+    "IP주소 변환 함수.md",
+    "구조체 IP주소를 문자열로 변환.md",
+    "문자열 IP 주소를 숫자 구조체로 변환.md",
+    "바이트 순서 함수.md",
     "소켓 프로그래밍.md",
-    "TCP/IP.md",
+    "IP주소와 포트번호.md",
+    "포트 번호로 정보 검색.md",
+    "서비스명으로 정보 검색.md",
+    "포트 정보 읽어오기.md",
+    "servent 구조체.md",
+    "Pasted image 20231128104039.png",
+    "IP주소로 정보 검색.md",
+    "호스트명으로 정보 검색.md",
+    "Pasted image 20231128093240.png",
     "TCP",
-    "TCP/IP 1.md",
-    "시스템 프로그래밍.md",
-    "저수준 파일 입출력.md",
-    "read(2).md",
-    "메모리 매핑.md",
-    "메모리 매핑 함수.md",
-    "stat, fstat(2).md",
-    "flags 에 설정 가능한 인자들.md",
-    "보호모드 설정에 가능한 인자들.md",
-    "매핑된 메모리의 동기화 함수.md",
-    "open(2).md",
-    "stat 구조체.md",
-    "파이프.md",
-    "이름 있는 파이프-FIFO.md",
-    "FIFO 로 데이터 주고받는 방법.md",
-    "명령어로  특수 파일 or FIFO 생성하기.md",
-    "FIFO 파일 생성 함수.md",
-    "특수 파일 생성 함수.md",
-    "이름 없는 파이프-pipe.md",
-    "복잡한 파이프 생성.md",
-    "간단한 파이프 생성.md",
-    "메모리 주소를 다시 매핑하기.md",
-    "파일 크기 확장 함수(경로명 이용).md",
     "Pasted image 20231103184928.png",
     "Pasted image 20231103184726.png",
     "Pasted image 20231015184342.png",
