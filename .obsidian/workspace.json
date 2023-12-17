@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 수신(SOCK_DGRAM).md",
+                "file": "소켓 인터페이스 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 수신(SOCK_DGRAM).md",
+                "file": "소켓 인터페이스 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 수신(SOCK_DGRAM).md",
+                "file": "소켓 인터페이스 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 수신(SOCK_DGRAM).md"
+                "file": "소켓 인터페이스 함수.md"
               }
             }
           },
@@ -157,18 +157,24 @@
   },
   "active": "738aeb2106d815b4",
   "lastOpenFiles": [
-    "소켓 인터페이스 함수.md",
-    "데이터 송신(SOCK_DGRAM).md",
-    "데이터 수신(SOCK_DGRAM).md",
-    "클라이언트가 서버에 접속 요청.md",
-    "데이터 송신(SOCK_STREAM).md",
-    "데이터 수신(SOCK_STREAM).md",
     "소켓 프로그래밍 API.md",
+    "소켓 프로그래밍.md",
+    "시스템 프로그래밍.md",
+    "파이프.md",
+    "이름 없는 파이프-pipe.md",
+    "간단한 파이프 생성.md",
+    "복잡한 파이프 생성.md",
+    "소켓 인터페이스 함수.md",
     "소켓 주소 구조체 - sockaddr.md",
+    "데이터 수신(SOCK_DGRAM).md",
+    "데이터 송신(SOCK_DGRAM).md",
+    "데이터 송신(SOCK_STREAM).md",
+    "클라이언트가 서버에 접속 요청.md",
+    "클라이언트의 연결 요청 대기.md",
+    "데이터 수신(SOCK_STREAM).md",
     "클라이언트의 연결 요청 수락.md",
     "sockaddr 구조체.md",
     "소켓 파일 기술자를 지정된 IP주소 & 포트번호와 결합.md",
-    "클라이언트의 연결 요청 대기.md",
     "소켓 파일 기술자를 지정된 IP주소/포트번호와 결합.md",
     "소켓 파일 기술자를 지정된 IP주소",
     "소켓 파일 기술자 생성.md",
@@ -176,15 +182,9 @@
     "구조체 IP주소를 문자열로 변환.md",
     "문자열 IP 주소를 숫자 구조체로 변환.md",
     "바이트 순서 함수.md",
-    "소켓 프로그래밍.md",
     "IP주소와 포트번호.md",
     "포트 번호로 정보 검색.md",
-    "서비스명으로 정보 검색.md",
-    "포트 정보 읽어오기.md",
-    "servent 구조체.md",
     "Pasted image 20231128104039.png",
-    "IP주소로 정보 검색.md",
-    "호스트명으로 정보 검색.md",
     "Pasted image 20231128093240.png",
     "TCP",
     "Pasted image 20231103184928.png",
